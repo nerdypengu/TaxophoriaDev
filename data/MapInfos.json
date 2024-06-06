@@ -1,13 +1,6 @@
 [
 null,
-<<<<<<< Updated upstream
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1216.5,"scrollY":716.25,"quick":false},
 {"id":2,"expanded":false,"name":"Cutscene Job","order":3,"parentId":1,"scrollX":648.8,"scrollY":359.6,"quick":false},
 {"id":3,"expanded":true,"name":"Ruangan","order":2,"parentId":1,"scrollX":1216.5,"scrollY":686.25,"quick":false}
-=======
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1222,"scrollY":648.5,"quick":false},
-{"id":2,"expanded":false,"name":"Cutscene Job","order":4,"parentId":1,"scrollX":811,"scrollY":449.5,"quick":false},
-{"id":3,"expanded":true,"name":"Ruangan","order":3,"parentId":1,"scrollX":816,"scrollY":624,"quick":false},
-{"id":4,"expanded":false,"name":"Kantor Pajak","order":2,"parentId":1,"scrollX":811,"scrollY":449.5,"quick":false}
->>>>>>> Stashed changes
 ]
