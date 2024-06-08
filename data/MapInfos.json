@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1404,"scrollY":914.5714285714286,"quick":false},
-{"id":2,"expanded":false,"name":"Cutscene Job","order":4,"parentId":1,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1404,"scrollY":1086,"quick":false},
+{"id":2,"expanded":false,"name":"Cutscene Job","order":4,"parentId":1,"scrollX":1390.2857142857142,"scrollY":784.2857142857142,"quick":false},
 {"id":3,"expanded":true,"name":"Ruangan","order":3,"parentId":1,"scrollX":1390.2857142857142,"scrollY":784.2857142857142,"quick":false},
 {"id":4,"expanded":false,"name":"Kantor Pajak","order":2,"parentId":1,"scrollX":1390.2857142857142,"scrollY":784.2857142857142,"quick":false}
 ]
