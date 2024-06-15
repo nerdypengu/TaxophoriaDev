@@ -1,9 +1,14 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Perkotaan","order":2,"parentId":0,"scrollX":940.5,"scrollY":2831.25,"quick":false},
-{"id":2,"expanded":false,"name":"Cutscene Job","order":6,"parentId":0,"scrollX":648.8,"scrollY":359.6,"quick":false},
-{"id":3,"expanded":true,"name":"Ruangan","order":5,"parentId":0,"scrollX":928.5,"scrollY":516.75,"quick":false},
-{"id":4,"expanded":false,"name":"Perumahan","order":1,"parentId":0,"scrollX":1984,"scrollY":1036,"quick":false},
-{"id":5,"expanded":false,"name":"Kepolisian","order":3,"parentId":0,"scrollX":928.5,"scrollY":516.75,"quick":false},
-{"id":6,"expanded":false,"name":"Kantor Pajak","order":4,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
+{"id":1,"expanded":false,"name":"Perkotaan","order":3,"parentId":0,"scrollX":1504.8,"scrollY":1755.6,"quick":false},
+{"id":2,"expanded":false,"name":"Cutscene Job","order":11,"parentId":0,"scrollX":648.8,"scrollY":359.6,"quick":false},
+{"id":3,"expanded":true,"name":"Ruangan","order":10,"parentId":0,"scrollX":1485.6,"scrollY":826.8,"quick":false},
+{"id":4,"expanded":false,"name":"Perumahan","order":1,"parentId":0,"scrollX":2354.4,"scrollY":1534.8,"quick":false},
+{"id":5,"expanded":false,"name":"Kepolisian","order":4,"parentId":0,"scrollX":1350.5454545454545,"scrollY":769.0909090909091,"quick":false},
+{"id":6,"expanded":false,"name":"Kantor Pajak","order":5,"parentId":0,"scrollX":1485.6,"scrollY":826.8,"quick":false},
+{"id":7,"expanded":true,"name":"Ruang Pajak","order":6,"parentId":6,"scrollX":1350.5454545454545,"scrollY":769.0909090909091,"quick":false},
+{"id":8,"expanded":false,"name":"Ruang Kerja","order":7,"parentId":7,"scrollX":1350.5454545454545,"scrollY":769.0909090909091,"quick":false},
+{"id":9,"expanded":false,"name":"Balai Kota","order":8,"parentId":0,"scrollX":1596,"scrollY":826.8,"quick":false},
+{"id":10,"expanded":false,"name":"Ruang Pengadilan","order":9,"parentId":9,"scrollX":1485.6,"scrollY":826.8,"quick":false},
+{"id":11,"expanded":false,"name":"Rumah Koruptornya brow","order":2,"parentId":0,"scrollX":1485.6,"scrollY":1074,"quick":false}
 ]
