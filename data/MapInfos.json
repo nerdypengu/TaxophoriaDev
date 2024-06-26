@@ -10,5 +10,6 @@ null,
 {"id":8,"expanded":false,"name":"Ruang Kerja","order":7,"parentId":7,"scrollX":1216.5,"scrollY":722.25,"quick":false},
 {"id":9,"expanded":true,"name":"Balai Kota","order":8,"parentId":1,"scrollX":1596,"scrollY":825.75,"quick":false},
 {"id":10,"expanded":false,"name":"Ruang Pengadilan","order":9,"parentId":9,"scrollX":1216.5,"scrollY":957.75,"quick":false},
-{"id":11,"expanded":false,"name":"Rumah Koruptornya brow","order":2,"parentId":1,"scrollX":1228.5,"scrollY":963.75,"quick":false}
+{"id":11,"expanded":false,"name":"Rumah Koruptornya brow","order":2,"parentId":1,"scrollX":1228.5,"scrollY":963.75,"quick":false},
+{"id":12,"expanded":false,"name":"Intro","order":12,"parentId":0,"scrollX":1344,"scrollY":768,"quick":false}
 ]
